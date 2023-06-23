@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/elouanb7/Devops-B3#readme",
   "devDependencies": {
+    "mocha": "^10.2.0",
     "should": "^13.2.3"
   }
 }
