@@ -1,0 +1,24 @@
+{
+  "name": "devops-b3",
+  "version": "1.0.0",
+  "description": "Repo devops-b3",
+  "main": "index.js",
+  "scripts"
+  : {
+    "test": "mocha tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elouanb7/Devops-B3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elouanb7/Devops-B3/issues"
+  },
+  "homepage": "https://github.com/elouanb7/Devops-B3#readme",
+  "devDependencies": {
+    "should": "^13.2.3"
+  }
+}
